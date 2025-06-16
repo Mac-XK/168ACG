@@ -12,6 +12,10 @@
 
 整个开发过程展示了如何将一个核心算法逻辑（基于HMAC-SHA256）封装到一个现代化的移动应用中，并围绕它构建用户友好的功能和界面。
 
+### 界面截图
+
+![应用截图](WechatIMG17.jpg)
+
 ### ✨ 功能特性
 
 - **精准的算法实现**: 精确实现了HMAC-SHA256哈希算法和特定的激活码生成逻辑。
@@ -64,6 +68,10 @@
 This project is an iOS application that implements a specific activation code generation algorithm for the "168 Keyboard." It evolved from a core algorithm script into a full-featured, visually appealing, and user-friendly native iOS application.
 
 The development process demonstrates how to encapsulate a core algorithm logic (based on HMAC-SHA256) into a modern mobile app, building user-friendly features and a polished interface around it.
+
+### Screenshot
+
+![App Screenshot](WechatIMG17.jpg)
 
 ### ✨ Features
 
