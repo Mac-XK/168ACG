@@ -14,7 +14,7 @@
 
 ### 界面截图
 
-![应用截图](WechatIMG17.jpg)
+<img src="WechatIMG17.jpg" alt="应用截图" width="300"/>
 
 ### ✨ 功能特性
 
@@ -71,7 +71,7 @@ The development process demonstrates how to encapsulate a core algorithm logic (
 
 ### Screenshot
 
-![App Screenshot](WechatIMG17.jpg)
+<img src="WechatIMG17.jpg" alt="App Screenshot" width="300"/>
 
 ### ✨ Features
 
